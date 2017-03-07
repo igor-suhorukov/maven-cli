@@ -8,7 +8,7 @@
     <groupId>com.github.igor-suhorukov</groupId>
     <artifactId>maven-cli</artifactId>
     <packaging>jar</packaging>
-    <version>3.3.9-SNAPSHOT</version>
+    <version>3.3.9</version>
     <name>maven-cli</name>
     <description>Invoke maven from java application</description>
     <url>https://github.com/igor-suhorukov/maven-cli</url>
